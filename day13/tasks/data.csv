@@ -1,0 +1,26 @@
+Price,City,Bedrooms,SquareFeet
+120000,New York,1,550
+150000,New York,2,700
+200000,New York,2,850
+300000,New York,3,1200
+450000,New York,4,1800
+180000,Chicago,2,900
+220000,Chicago,3,1100
+260000,Chicago,3,1300
+320000,Chicago,4,1700
+400000,Chicago,5,2200
+100000,Detroit,2,800
+130000,Detroit,3,1000
+170000,Detroit,3,1300
+220000,Detroit,4,1600
+280000,Detroit,5,2000
+90000,Cleveland,2,700
+120000,Cleveland,3,900
+150000,Cleveland,3,1100
+200000,Cleveland,4,1400
+260000,Cleveland,5,1800
+140000,Phoenix,2,850
+190000,Phoenix,3,1150
+230000,Phoenix,3,1350
+300000,Phoenix,4,1800
+380000,Phoenix,5,2400
